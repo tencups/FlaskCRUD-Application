@@ -4,5 +4,5 @@
 
 Adds student information through web form which is inserted to MySQL Database
 
-#_First app created with Flask and MySQL_#
+_First app created with Flask and MySQL_
 
