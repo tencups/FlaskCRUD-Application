@@ -1,6 +1,6 @@
-### FlaskCRUD-Application
+# FlaskCRUD-Application
 
-# Webapp created with Flask and MySQL 
+### Webapp created with Flask and MySQL 
 
 Adds student information through web form which is inserted to MySQL Database
 
